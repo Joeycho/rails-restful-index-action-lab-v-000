@@ -1,1 +1,1 @@
-class StudentC
+class StudentController
